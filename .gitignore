@@ -1,0 +1,4 @@
+#user build file
+*.pro.user
+#build file
+build*
